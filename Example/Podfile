@@ -1,0 +1,9 @@
+use_frameworks!
+
+target 'HHConfig_Example' do
+  pod 'HHConfig', :path => '../'
+
+
+
+  pod 'UMengSocialCOM', '~> 5.2.1'
+end

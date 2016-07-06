@@ -1,0 +1,16 @@
+PODS:
+  - HHConfig (0.1.0)
+
+DEPENDENCIES:
+  - HHConfig (from `../`)
+
+EXTERNAL SOURCES:
+  HHConfig:
+    :path: ../
+
+SPEC CHECKSUMS:
+  HHConfig: 359c01860a3cdabef26507301c79540eb4b9ed2c
+
+PODFILE CHECKSUM: f7fadb49e4b55463c4df22a381ad8bf9afdc973f
+
+COCOAPODS: 1.0.1
